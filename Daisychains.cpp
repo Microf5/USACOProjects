@@ -1,4 +1,4 @@
-// daisychains.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Daisychains.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
